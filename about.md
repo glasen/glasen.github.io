@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MsC in Bioinformatics, Software developer, Linux enthusiast and family man.
+
+Using Linux since 1995.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blog deals with all kinds of topics, but especially with topics from the Linux environment and also with problems that I encounter every day when developing software in the field of digital forensics.
